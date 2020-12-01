@@ -1,0 +1,17 @@
+1、新建项目，安装依赖包
+go get k8s.io/code-generator
+go get k8s.io/client-go
+go get k8s.io/apimachinery
+
+2、准备定义crd yaml文件，和资源yaml文件
+3、export GOPROXY=https://goproxy.cn
+4、go get -d k8s.io.code-generator@v0.17.9
+
+5、编辑doc.go
+6、编辑type.go  资源定义
+7、修改update-codegen.sh
+8、chmod +x update-codegen.sh
+9、add tools.go  目的是导入code-generator库
+10、go mod vendor
+11、执行 . update-codegen.sh
+
