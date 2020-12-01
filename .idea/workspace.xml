@@ -28,6 +28,7 @@
       <change afterPath="$PROJECT_DIR$/hack/boilerplate.go.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hack/tools.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hack/update-codegen.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kcrd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/manifests/crd.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/manifests/crontab.yaml" afterDir="false" />
@@ -6523,6 +6524,10 @@
       <screen x="1440" y="-80" width="1920" height="1057" />
     </state>
     <state x="2135" y="257" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.-80.1920.1057@1440.-80.1920.1057" timestamp="1605609169834" />
+    <state x="256" y="37" key="CommitChangelistDialog2" timestamp="1606833740054">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="256" y="37" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1606833740054" />
     <state x="353" y="162" key="SettingsEditor" timestamp="1606833273312">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -6532,5 +6537,9 @@
       <screen x="1440" y="-80" width="1920" height="1057" />
     </state>
     <state x="2102" y="203" width="598" height="490" key="find.popup/0.23.1440.877/1440.-80.1920.1057@1440.-80.1920.1057" timestamp="1605694267220" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1606835650889">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1606835650889" />
   </component>
 </project>
